@@ -7,6 +7,6 @@ Os dados possuem como fontes três tabelas no sistema SIDRA do IBGE:
    * Tabela 3734 - Domicílios particulares permanentes urbanos e distribuição percentual, por classes de rendimento mensal domiciliar per capita em salários mínimos, disponível em: https://sidra.ibge.gov.br/tabela/3734
 
 Bibliotecas mínimas necessárias:
-* pandas
-* numpy
-* plotly
+* Pandas
+* Numpy
+* Plotly
