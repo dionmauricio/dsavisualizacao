@@ -1,5 +1,6 @@
 # dsavisualizacao
 Concurso de Visualização de Dados da DSA
+
 Os dados possuem como fontes três tabelas no sistema SIDRA do IBGE:
    * Tabela 898 - Internações hospitalares por doenças relacionadas ao saneamento ambiental inadequado, total e segundo as categorias de doenças, disponvel em: https://sidra.ibge.gov.br/tabela/898;
    * Tabela 1160 - Distribuição percentual de moradores em domicílios particulares permanentes pelo tipo de esgotamento sanitário, segundo a situação do domicílio, disponível em: https://sidra.ibge.gov.br/tabela/1160;
